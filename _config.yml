@@ -7,28 +7,28 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
+url: http://isgnu.ga/
 author: Fábio Madeira
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: merbot.github.io
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
+baseurl: isgnu.ga
+title: Ngalim Siregar's Resume
+name: Ngalim Yusuf Siregar
+email: ngalim.siregar@gmail.com
+email_full: mailto:ngalim.siregar@gmail.com
+website: linhub.io
+website_full: https://linhub.io/
+github: nsiregar
 twitter: twitter
-tel: +44 0000 000000
+tel: +62 811 490 6918
 tel_full: tel:+440000000000
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+address: Jl Teratai III No. 10
+postcode: 99910
+city: Batu
+country: Indonesia
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
