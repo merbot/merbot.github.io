@@ -13,7 +13,7 @@ author: Fábio Madeira
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: isgnu.ga
+baseurl: /
 title: Ngalim Siregar's Resume
 name: Ngalim Yusuf Siregar
 email: ngalim.siregar@gmail.com
@@ -23,7 +23,7 @@ website_full: https://linhub.io/
 github: nsiregar
 twitter: twitter
 tel: +62 811 490 6918
-tel_full: tel:+440000000000
+tel_full: tel:+628114906918
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address: Jl Teratai III No. 10
 postcode: 99910
